@@ -1,0 +1,1 @@
+# Revision Task: 9. write a program to take user input of 8 numbers and count the unique numbers

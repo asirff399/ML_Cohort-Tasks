@@ -1,0 +1,1 @@
+# Revision Task: 10.create an empty dictionary, allow 4 friends to enter their favourite programming language as values and keys as their name. and display them. assume the names are unique

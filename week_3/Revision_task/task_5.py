@@ -1,0 +1,1 @@
+# Revision Task: 5. write a program to detect if there are double spaces in a string and replace the double space with a single space

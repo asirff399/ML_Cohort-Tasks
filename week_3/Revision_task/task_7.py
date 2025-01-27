@@ -1,0 +1,1 @@
+# Revision Task: 7. write a program to accept marks of 6 students and display them in a sorted manner and find out their average
